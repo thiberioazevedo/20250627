@@ -2,7 +2,7 @@
 {
     public enum ETipoPreco
     {
-        Fixo,
-        Variavel
+        VendaFixo,
+        CompraVariavel
     }
 }
